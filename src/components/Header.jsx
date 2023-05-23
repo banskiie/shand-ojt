@@ -17,7 +17,7 @@ const Header = () => {
         className="flex items-center gap-x-1 hover:text-accent font-bold"
       >
         <IconDev />
-        <span>Shand Ivan</span>
+        <span className="hidden md:block">Shand Ivan</span>
       </NavLink>
       <div>
         <ul className="flex gap-x-5 items-center">
