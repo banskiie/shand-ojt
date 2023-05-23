@@ -34,7 +34,7 @@ const ProfileEducation = () => {
           </div>
         </li>
         <li>
-          <div className="flex flex-row ml-4 md:ml-12 items-center justify-start">
+          <div className="flex flex-row mx-4 md:ml-12 items-center justify-start">
             <img src={xu} alt="Xavier University" className="h-14 m-4" />
             <div className="flex flex-col">
               <span>Tertiary</span>
