@@ -9,7 +9,7 @@ const ProfileEmployment = () => {
         </svg>
         <span>Employment</span>
       </div>
-      <ul className="list-none text-primary text-2xl pt-8 flex flex-col items-start justify-center gap-4 px-10 md:px-0">
+      <ul className="list-none text-primary text-2xl pt-8 flex flex-col items-start justify-center gap-4 px-10 md:px-0 pb-12">
         <li>
           <div className="flex flex-col md:pl-12">
             <span className="font-bold">CDO Pets Association</span>
