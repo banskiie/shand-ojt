@@ -11,7 +11,6 @@ const AppRoutes = () => {
       <Route index path="/" Component={Home} />
       <Route path="/profile" Component={Profile} />
       <Route path="/journal" Component={Journal} />
-      <Route path="/reflection" Component={Reflection} />
     </Routes>
   );
 };
