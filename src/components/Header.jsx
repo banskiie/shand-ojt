@@ -52,16 +52,6 @@ const Header = () => {
             <IconBookOpen />
             <span className="hidden md:block">Journal</span>
           </NavLink>
-          <NavLink
-            to="/reflection"
-            className="flex items-center gap-x-1 hover:text-accent md:-ml-2"
-            data-tooltip-id="my-tooltip"
-            data-tooltip-content="Reflection"
-          >
-            <Tooltip id="my-tooltip" />
-            <IconLightBulb height="0.85em" />
-            <span className="hidden md:block">Reflection</span>
-          </NavLink>
         </ul>
       </div>
     </div>

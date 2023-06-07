@@ -25,7 +25,7 @@ const ProfileEmployment = () => {
         <li>
           <div className="flex flex-col md:pl-12">
             <span className="font-bold">Fligno Software Philippines, Inc.</span>
-            <span>Software Engineer Intern (March 2023 - May 2023)</span>
+            <span>Software Engineer Intern (Feb 2023 - May 2023)</span>
           </div>
         </li>
       </ul>
